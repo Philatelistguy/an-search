@@ -40,7 +40,7 @@ export default function Home() {
         {/* Body */}
 
         <form className="flex h-96 flex-col items-center justify-center flex-grow w-[80%] sm:w-[90%]">
-        <p className="text-6xl w-80 place-self-center	 text-center	 bg-green-500 font-bold text-white py-1 px-2 rounded dark:bg-gray-50 dark:text-gray-900">
+        <p className="text-6xl w-80 place-self-center	 text-center	 bg-green-500 font-bold text-white py-1 px-2 rounded dark:text-gray-900">
           AN-Search
         </p>
 
