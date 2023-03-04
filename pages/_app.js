@@ -7,7 +7,7 @@ import "nprogress/nprogress.css";
 NProgress.configure({
   easing: "ease",
   speed: 800,
-  showSpinner: false,
+  showSpinner: true,
 });
 
 function MyApp({ Component, pageProps }) {
